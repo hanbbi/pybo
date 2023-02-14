@@ -1,0 +1,4 @@
+[2023-02-02 14:08:31] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-02 14:08:40] views -88 INFO index 레벨로 출력
+[2023-02-02 14:08:40] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 3767
+[2023-02-02 14:09:16] autoreload -266 INFO C:\projects\mysite\config\settings.py changed, reloading.
