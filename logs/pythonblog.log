@@ -1,4 +1,8 @@
-[2023-02-02 14:08:31] autoreload -677 INFO Watching for file changes with StatReloader
-[2023-02-02 14:08:40] views -88 INFO index 레벨로 출력
-[2023-02-02 14:08:40] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 3767
-[2023-02-02 14:09:16] autoreload -266 INFO C:\projects\mysite\config\settings.py changed, reloading.
+[2023-02-01 14:18:21] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-01 14:18:39] views -75 INFO index 레벨로 출력
+[2023-02-01 14:18:39] views -80 INFO question_list:<QuerySet [<Question: 점심 시간 입니다.>, <Question: 수요일>, <Question: 제목>, <Question: <제목>>, <Question: 눈오는 목요일>, <Question: Django Model Question>]>
+[2023-02-01 14:18:39] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 3610
+[2023-02-01 14:18:39] basehttp -187 INFO "GET /static/style.css HTTP/1.1" 304 0
+[2023-02-01 14:18:39] basehttp -187 INFO "GET /static/common.js HTTP/1.1" 304 0
+[2023-02-01 14:18:39] basehttp -187 WARNING "GET /static/bootstrap.min.css.map HTTP/1.1" 404 1822
+[2023-02-01 14:19:28] autoreload -266 INFO C:\projects\mysite\config\settings.py changed, reloading.

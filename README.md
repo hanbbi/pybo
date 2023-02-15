@@ -1,2 +1,0 @@
-# pybo
-django site
